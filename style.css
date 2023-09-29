@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+html {
+    font-family: "Inter", sans-serif;
+    color: #fff;
+}
+
+body {
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(73,0,84,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(73,0,84,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(73,0,84,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#490054",GradientType=1);
+}
+
+h1 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 84px;
+    margin-top: 266px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 32px;
+    margin-top: -40px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #fff;
+}
