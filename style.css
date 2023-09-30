@@ -17,7 +17,7 @@ h1 {
     text-align: center;
     font-weight: 200;
     font-size: 84px;
-    margin-top: 266px;
+    margin-top: -10px;
 }
 
 h2 {
@@ -35,4 +35,11 @@ a:link {
 a:visited {
     text-decoration: none;
     color: #fff;
+}
+
+.clock {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 0px;
+    font-weight: 300;
 }
